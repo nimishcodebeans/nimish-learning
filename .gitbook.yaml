@@ -1,0 +1,18 @@
+# GitBook Git Sync configuration.
+#
+# This repo IS the documentation, so `root` is the repo root. In GitBook, enable
+# Git Sync on the space with the Project directory left empty (or `/`).
+#
+# The same files also build with HonKit (see book.json and package.json), so the
+# pages use plain Markdown only — no GitBook-only {% %} blocks.
+
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+# When a page moves, add its OLD path here so existing links keep working.
+#
+# redirects:
+#   app/setup: app/setup/README.md

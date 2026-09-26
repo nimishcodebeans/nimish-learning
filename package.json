@@ -1,0 +1,13 @@
+{
+  "name": "cb-cart-manager-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public documentation for CB Customer Cart Manager. Markdown only; builds with HonKit and syncs to GitBook.",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}

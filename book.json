@@ -1,0 +1,10 @@
+{
+  "title": "CB Customer Cart Manager",
+  "description": "Guides and reference for CB Customer Cart Manager — live cart tracking, cart support and draft orders for Shopify.",
+  "language": "en",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": []
+}
