@@ -1,8 +1,7 @@
 ---
+title: "Set up and connect"
 description: Turn on MCP, create an access token and connect Claude Desktop or any other MCP client.
 ---
-
-# Set up and connect
 
 ## 1. Turn on MCP
 

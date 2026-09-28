@@ -1,8 +1,7 @@
 ---
+title: "Tool reference"
 description: Every tool the AI connector offers, what it does and what it needs.
 ---
-
-# Tool reference
 
 The name in the app (under **Tools this token can use**) is shown first, with the technical tool
 name the AI client sees.

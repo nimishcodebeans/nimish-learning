@@ -1,8 +1,7 @@
 ---
+title: "Popup and support form"
 description: Design the form shoppers fill in when they send their cart to support, and optionally show the widget as a popup.
 ---
-
-# Popup and support form
 
 **Settings → Popup & Support.** Both features need a paid plan. On Free they are switched off
 when you save.
@@ -29,7 +28,7 @@ Field types:
 | --- | --- |
 | Short Text | Name, order number |
 | Long Text (Message) | The question itself |
-| Email | Where to reply. Used for the [confirmation email](email-notifications.md). |
+| Email | Where to reply. Used for the [confirmation email](/app/setup/email-notifications). |
 | Phone Number | A callback number |
 | Dropdown (Select) | A fixed choice. Enter the options separated by commas: `Order, Shipping, Returns` |
 
@@ -44,7 +43,7 @@ Field types:
 - **Form off:** the button sends the cart straight away and changes to **Request Sent!**
 
 Either way, a **Support Request** is added to the cart and appears in the Dashboard's
-[Support Tickets](../guides/support-tickets.md) tab.
+[Support Tickets](/app/guides/support-tickets) tab.
 
 ## Popup
 

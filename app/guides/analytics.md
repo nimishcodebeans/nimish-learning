@@ -1,8 +1,7 @@
 ---
+title: "Read your analytics"
 description: What each chart on the Analytics page means and how to use it.
 ---
-
-# Read your analytics
 
 **Analytics** needs the **Advanced** plan or above. On lower plans the charts are blurred.
 

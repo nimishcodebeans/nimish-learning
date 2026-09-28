@@ -1,8 +1,7 @@
 ---
+title: "Cart statuses and metrics"
 description: Exact definitions of cart statuses, dashboard tabs and every number in the app.
 ---
-
-# Cart statuses and metrics
 
 ## Statuses
 

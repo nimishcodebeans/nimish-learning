@@ -1,8 +1,7 @@
 ---
+title: "Cart ID format"
 description: Show Cart IDs as text IDs or as simple sequential numbers.
 ---
-
-# Cart ID format
 
 **Settings → General settings → Cart ID Display → Cart ID format.**
 

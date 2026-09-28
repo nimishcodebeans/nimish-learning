@@ -1,8 +1,7 @@
 ---
+title: "Create draft orders"
 description: Turn a cart into a Shopify draft order instantly, or build a custom one first.
 ---
-
-# Create draft orders
 
 A draft order is an order you prepare for a customer and send them to pay. Cart Manager builds it
 from their cart, so you don't retype anything. Draft orders need **Basic** or above.
@@ -88,6 +87,6 @@ invoice happen in Shopify: click **View Draft** or **Go to Draft Order**, then u
 Each plan includes a number of draft orders per month: 10 on Basic, 100 on Advanced, unlimited on
 Enterprise. Every draft created from the app counts, whichever way you create it. When you reach
 the limit, **Monthly Limit Reached** appears and **Create New Draft** is disabled until next month
-or until you upgrade. See [Plan features](../reference/plan-features.md).
+or until you upgrade. See [Plan features](/app/reference/plan-features).
 
 If you delete a draft in Shopify, the app unlinks it from the cart, so you can create a new one.

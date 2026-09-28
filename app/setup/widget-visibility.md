@@ -1,8 +1,7 @@
 ---
+title: "Widget visibility"
 description: Choose which shoppers see the cart widget, and on which pages.
 ---
-
-# Widget visibility
 
 **Settings → Widget Visibility.** Two settings decide where the widget appears. Click **Save** in
 the bar at the top when you are done.
@@ -30,7 +29,7 @@ Tick the storefront pages where the widget should appear:
 Ticking a specific page unticks **All Pages**, and ticking **All Pages** unticks the rest.
 
 On any page where the widget is allowed, it appears in the cart page and inside the cart drawer
-when the shopper opens it. With the [popup](popup-and-support-form.md) on, it can also appear as a
+when the shopper opens it. With the [popup](/app/setup/popup-and-support-form) on, it can also appear as a
 popup.
 
 > **Tip.** Most stores keep **Cart Page** only. Shoppers look for help when they are reviewing

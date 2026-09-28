@@ -1,8 +1,7 @@
 ---
+title: "FAQ"
 description: Common questions and quick fixes.
 ---
-
-# FAQ
 
 ## Setup
 
@@ -11,16 +10,16 @@ description: Common questions and quick fixes.
 Go through these in order:
 
 1. **App embed.** Is **Cb Customer Cart Widget** switched on and saved in your **live** theme?
-   See [Enable the app embed](../setup/enable-app-embed.md).
+   See [Enable the app embed](/app/setup/enable-app-embed).
 2. **Page.** By default the widget shows on the cart page and in the cart drawer only. Check
-   [Widget visibility](../setup/widget-visibility.md), including **Target Audience**.
+   [Widget visibility](/app/setup/widget-visibility), including **Target Audience**.
 3. **Plan.** On Free, carts are not tracked, and the widget only shows for tracked carts.
 4. **Limit.** If you have reached this month's tracked-cart limit, new carts don't get the widget.
    Check **Home → Plan Usage & Caps**.
 5. **Cart Number format.** A new cart gets its number a moment after the first product is
    added. The widget appears once it has one.
 6. **Position.** If it appears somewhere odd, or not inside a custom cart drawer, see
-   [Theme compatibility](../setup/theme-compatibility.md).
+   [Theme compatibility](/app/setup/theme-compatibility).
 
 ### The Setup Guide step "Initial Set Up" isn't ticked
 
@@ -65,7 +64,7 @@ city or a nearby one.
 ### Can I add a discount or send an invoice from the app?
 
 Not from the app. Create the draft here, then click **View Draft** to open it in Shopify and add
-discounts, shipping or send the invoice. See [Create draft orders](../guides/draft-orders.md).
+discounts, shipping or send the invoice. See [Create draft orders](/app/guides/draft-orders).
 
 ### "Update draft order" is greyed out
 
@@ -88,7 +87,7 @@ The app unlinks it from the cart, so you can create a new one.
 ### The shopper didn't get a confirmation
 
 Turn on **Support ticket submitted (confirmation email)** under **Customer Alerts**. For guests,
-add an **Email** field to your [support form](../setup/popup-and-support-form.md), because the app
+add an **Email** field to your [support form](/app/setup/popup-and-support-form), because the app
 needs an address to send to.
 
 ## Account
@@ -97,7 +96,7 @@ needs an address to send to.
 
 Yes, the app interface is available in 11 languages. Change it with **Language** on Home or in
 **Settings → General settings**. For the storefront widget text, create a
-[custom template](../setup/widget-templates.md).
+[custom template](/app/setup/widget-templates).
 
 ### What happens if I uninstall?
 

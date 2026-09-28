@@ -1,0 +1,66 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "CB Customer Cart Manager",
+  "description": "Guides and reference for CB Customer Cart Manager — live cart tracking, cart support and draft orders for Shopify.",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#4ADE80",
+    "dark": "#15803D"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get started",
+        "pages": ["index"]
+      },
+      {
+        "group": "Merchant guide",
+        "pages": [
+          "app/index",
+          "app/quickstart",
+          {
+            "group": "Set up",
+            "pages": [
+              "app/setup/index",
+              "app/setup/enable-app-embed",
+              "app/setup/widget-templates",
+              "app/setup/widget-visibility",
+              "app/setup/popup-and-support-form",
+              "app/setup/email-notifications",
+              "app/setup/cart-id-format",
+              "app/setup/theme-compatibility"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "app/guides/index",
+              "app/guides/dashboard",
+              "app/guides/review-a-cart",
+              "app/guides/support-tickets",
+              "app/guides/draft-orders",
+              "app/guides/analytics",
+              "app/guides/plans-and-billing"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "app/reference/index",
+              "app/reference/settings",
+              "app/reference/statuses-and-metrics",
+              "app/reference/plan-features",
+              "app/reference/email-variables",
+              "app/reference/faq"
+            ]
+          }
+        ]
+      },
+      {
+        "group": "AI connector (MCP)",
+        "pages": ["mcp/index", "mcp/setup", "mcp/tools", "mcp/security"]
+      }
+    ]
+  }
+}

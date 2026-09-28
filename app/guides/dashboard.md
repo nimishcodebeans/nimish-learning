@@ -1,8 +1,7 @@
 ---
+title: "Use the dashboard"
 description: Find any cart fast with the Dashboard's tabs, search and live numbers.
 ---
-
-# Use the dashboard
 
 **Dashboard** is where you see every cart. It refreshes itself every few seconds, and again as
 soon as you come back to the browser tab, so you can leave it open.
@@ -16,7 +15,7 @@ soon as you come back to the browser tab, so you can leave it open.
 | **Total cart value** | The combined value of all carts in the app (archived carts excluded) |
 | **Total Sales** | The value of orders placed from tracked carts, with the number of orders |
 
-Exact definitions: [Cart statuses and metrics](../reference/statuses-and-metrics.md).
+Exact definitions: [Cart statuses and metrics](/app/reference/statuses-and-metrics).
 
 ## Tabs
 
@@ -27,7 +26,7 @@ Exact definitions: [Cart statuses and metrics](../reference/statuses-and-metrics
 | **Today's Carts** | Carts with activity since midnight |
 | **Week to Date Carts** | Carts active in the last 7 days |
 | **Abandoned Carts** | No activity for over an hour, and no checkout or order |
-| **Support Tickets** | Shoppers who pressed the widget button. See [Handle support tickets](support-tickets.md). |
+| **Support Tickets** | Shoppers who pressed the widget button. See [Handle support tickets](/app/guides/support-tickets). |
 | **Archived** | Carts you hid with **Hide Cart** |
 
 Each tab shows its count in brackets.
@@ -69,4 +68,4 @@ cart you have finished with. Archived carts leave every other tab and stop count
   not tracked until the 1st of next month or until you upgrade. Carts you already track keep
   updating.
 
-Both banners have an **Upgrade Plan** button. See [Plans and billing](plans-and-billing.md).
+Both banners have an **Upgrade Plan** button. See [Plans and billing](/app/guides/plans-and-billing).

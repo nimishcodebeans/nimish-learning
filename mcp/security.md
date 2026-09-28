@@ -1,8 +1,7 @@
 ---
+title: "Security and troubleshooting"
 description: How the AI connector protects your store, and how to fix connection problems.
 ---
-
-# Security and troubleshooting
 
 ## How your data is protected
 

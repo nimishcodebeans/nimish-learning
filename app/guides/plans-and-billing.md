@@ -1,8 +1,7 @@
 ---
+title: "Plans and billing"
 description: How plans, trials, limits and plan changes work.
 ---
-
-# Plans and billing
 
 Cart Manager is billed through Shopify. Charges appear on your Shopify invoice.
 
@@ -15,7 +14,7 @@ Cart Manager is billed through Shopify. Charges appear on your Shopify invoice.
 | **Advanced** | $37.99 / 30 days | 3 days |
 | **Enterprise** | $87.99 / 30 days | 3 days |
 
-Prices in USD. For what each plan includes, see [Plan features](../reference/plan-features.md).
+Prices in USD. For what each plan includes, see [Plan features](/app/reference/plan-features).
 
 You must choose a plan, Free included, before the app opens. If there is no active plan (for
 example after reinstalling), the app takes you to Shopify's plan page first.

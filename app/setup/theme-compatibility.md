@@ -1,8 +1,7 @@
 ---
+title: "Theme compatibility"
 description: What to do if the cart widget appears in the wrong place, or not at all, on a custom theme.
 ---
-
-# Theme compatibility
 
 The widget places itself automatically. It recognises about 150 popular themes, including Dawn
 and the other free Shopify themes, Prestige, Impulse, Symmetry, Broadcast, Motion, Warehouse,

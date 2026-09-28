@@ -1,8 +1,7 @@
 ---
+title: "Email notifications"
 description: Get an email when a shopper sends their cart to support, confirm receipt to the shopper, and optionally send from your own mail server.
 ---
-
-# Email notifications
 
 The app sends two emails, both when a shopper submits the cart widget:
 
@@ -32,7 +31,7 @@ Notifications → Email Notifications**).
 2. Click **Save**.
 
 The shopper needs an email address: either their customer account, or an Email field in your
-[support form](popup-and-support-form.md).
+[support form](/app/setup/popup-and-support-form).
 
 ## 3. Edit the templates (optional)
 
@@ -43,7 +42,7 @@ under Merchant Alerts. Click it to open the editor.
 | --- | --- |
 | **Subject** | Plain text. Variables allowed. |
 | **Content** | HTML, in a code editor. Variables allowed. |
-| **Liquid variables** | Click one to copy it. See [Email variables](../reference/email-variables.md). |
+| **Liquid variables** | Click one to copy it. See [Email variables](/app/reference/email-variables). |
 | **Preview** | Shows the email with sample data |
 | **Test Email** | Enter a **Recipient Email** and click **Send Test Email**. The template is saved first. |
 | **Email Branding** | Tick **Include branding (logo) in this email**, then upload a PNG, JPG, GIF or WebP (max 2MB) or paste an image URL. Each template has its own logo. |

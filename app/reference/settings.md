@@ -1,8 +1,7 @@
 ---
+title: "Settings"
 description: Every setting in the app, with its options and default.
 ---
-
-# Settings
 
 **Settings** has six tabs on the left. Changes are saved with the **Save** bar at the top of the
 page; **Discard** undoes them. Saving updates your storefront widget straight away.
@@ -11,11 +10,11 @@ page; **Discard** undoes them. Saving updates your storefront widget straight aw
 
 | Setting | Options | Default |
 | --- | --- | --- |
-| **Card widget → Modify Cart Widget** | Opens [Choose Widget Template](../setup/widget-templates.md) | – |
+| **Card widget → Modify Cart Widget** | Opens [Choose Widget Template](/app/setup/widget-templates) | – |
 | **Cart ID format** | Text ID (e.g. v_yna3sj0b2) · Cart Number (#1, #2, #3 …) | Text ID |
 | **Language** | 11 languages for the app interface. Saves immediately. | English |
 
-More: [Cart ID format](../setup/cart-id-format.md).
+More: [Cart ID format](/app/setup/cart-id-format).
 
 ## Widget Visibility
 
@@ -24,7 +23,7 @@ More: [Cart ID format](../setup/cart-id-format.md).
 | **Target Audience** | Show to Everyone (All Users) · Show only to Logged-in Customers · Show only to Guest Users | Everyone |
 | **Storefront Pages** | All Pages (Everywhere) · Home Page · Product Pages · Collection Pages · Cart Page · Custom Pages · Blogs & Articles | Cart Page |
 
-More: [Widget visibility](../setup/widget-visibility.md).
+More: [Widget visibility](/app/setup/widget-visibility).
 
 ## Popup & Support
 
@@ -36,7 +35,7 @@ More: [Widget visibility](../setup/widget-visibility.md).
 | **Require customers to fill out a form on submit** | On / off | On | Basic+ |
 | **Form Fields** | Label, Type (Short Text, Long Text (Message), Email, Phone Number, Dropdown (Select)), Required | One field: "Query", Long Text, required | Basic+ |
 
-More: [Popup and support form](../setup/popup-and-support-form.md).
+More: [Popup and support form](/app/setup/popup-and-support-form).
 
 ## Advanced
 
@@ -46,7 +45,7 @@ More: [Popup and support form](../setup/popup-and-support-form.md).
 | **Custom Drawer/Sliding Cart Selector** | Blank (auto-detect) |
 | **Custom Popup Selector** | Blank (auto-detect) |
 
-More: [Theme compatibility](../setup/theme-compatibility.md).
+More: [Theme compatibility](/app/setup/theme-compatibility).
 
 ## Notifications
 
@@ -58,9 +57,9 @@ A link to **Email Notifications**, which has three tabs:
 | **Customer Alerts** | Support ticket submitted (confirmation email); Ticket Confirmation template | Off |
 | **Merchant Alerts** | New support ticket submitted by customer; Notification Email; New Support Request template | Off; your store email |
 
-More: [Email notifications](../setup/email-notifications.md).
+More: [Email notifications](/app/setup/email-notifications).
 
 ## MCP Integration
 
 Turn the AI connector on or off, and create and manage access tokens. See
-[AI connector setup](../../mcp/setup.md).
+[AI connector setup](/mcp/setup).

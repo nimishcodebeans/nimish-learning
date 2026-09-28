@@ -1,10 +1,9 @@
 ---
+title: "Email variables"
 description: The variables you can use in email subjects and content.
 ---
 
-# Email variables
-
-Use these in the **Subject** or **Content** of an [email template](../setup/email-notifications.md).
+Use these in the **Subject** or **Content** of an [email template](/app/setup/email-notifications).
 In the editor, click a variable under **Liquid variables** to copy it.
 
 <table>
@@ -22,7 +21,7 @@ In the editor, click a variable under **Liquid variables** to copy it.
     </tr>
     <tr>
       <td><code>&#123;&#123;cart_id&#125;&#125;</code></td>
-      <td>The shopper's Cart ID, in your chosen <a href="../setup/cart-id-format.md">format</a></td>
+      <td>The shopper's Cart ID, in your chosen <a href="/app/setup/cart-id-format">format</a></td>
       <td>#1024 or v_yna3sj0b2</td>
     </tr>
   </tbody>

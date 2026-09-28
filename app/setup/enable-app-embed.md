@@ -1,8 +1,7 @@
 ---
+title: "Enable the app embed"
 description: Switch on the Cb Customer Cart Widget app embed so shoppers see their Cart ID.
 ---
-
-# Enable the app embed
 
 The cart widget is a Shopify **app embed**. Nothing appears on your storefront until you switch it
 on in your theme. It has no settings in the theme editor; everything is configured in the app.
@@ -33,12 +32,12 @@ the popup opens after two seconds, so you can see the design without a real cart
 > **Not showing?** Check, in order:
 >
 > 1. The embed is on **and saved** in your **live** theme, not a draft theme.
-> 2. You are on a page included in [Widget visibility](widget-visibility.md). The default is the
+> 2. You are on a page included in [Widget visibility](/app/setup/widget-visibility). The default is the
 >    cart page and cart drawer only.
 > 3. You are on a paid plan, or its trial, and have not reached your monthly
->    [tracked-cart limit](../reference/plan-features.md). The widget hides for carts that are not
+>    [tracked-cart limit](/app/reference/plan-features). The widget hides for carts that are not
 >    tracked.
 > 4. If the page is right but the position is wrong, see
->    [Theme compatibility](theme-compatibility.md).
+>    [Theme compatibility](/app/setup/theme-compatibility).
 
 If you change your theme later, enable the embed again in the new theme.

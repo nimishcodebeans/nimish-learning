@@ -1,8 +1,7 @@
 ---
+title: "Choose a widget template"
 description: Pick one of nine ready-made designs for the cart widget, or build your own.
 ---
-
-# Choose a widget template
 
 The template controls how the Cart ID card looks and what it says. Open it from **Home → Setup
 Guide → Go to Templates**, from the **CB Cart Widget** card on Home, or from **Settings → General
@@ -54,7 +53,7 @@ delete the active template, the widget goes back to Classic Elegance.
 
 ## What the shopper sees
 
-- A badge: **Your Cart ID: v_yna3sj0b2** (or **#12** with [number format](cart-id-format.md))
+- A badge: **Your Cart ID: v_yna3sj0b2** (or **#12** with [number format](/app/setup/cart-id-format))
 - The heading and body text
 - The button. What happens when they press it depends on the
-  [support form](popup-and-support-form.md).
+  [support form](/app/setup/popup-and-support-form).

@@ -1,8 +1,7 @@
 ---
+title: "Plan features"
 description: What each plan includes, and its monthly limits.
 ---
-
-# Plan features
 
 |  | Free | Basic | Advanced | Enterprise |
 | --- | --- | --- | --- | --- |
@@ -27,7 +26,7 @@ description: What each plan includes, and its monthly limits.
 Prices in USD. Monthly limits reset on the 1st of each calendar month.
 
 For what happens when you reach a limit, and how to change plan, see
-[Plans and billing](../guides/plans-and-billing.md).
+[Plans and billing](/app/guides/plans-and-billing).
 
 ## Which plan do I need?
 

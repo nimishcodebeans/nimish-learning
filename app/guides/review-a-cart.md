@@ -1,8 +1,7 @@
 ---
+title: "Review a cart"
 description: Everything on the cart page, and what you can do from it.
 ---
-
-# Review a cart
 
 From the Dashboard, click **View Details** on any cart. The page title is **Cart ID: …** with the
 cart's status beside it. It refreshes itself every few seconds.
@@ -11,7 +10,7 @@ cart's status beside it. It refreshes itself every few seconds.
 
 Every product in the cart: image, title (links to the product in Shopify), variant, any line-item
 properties, price × quantity and line total. The **Total** is at the bottom, next to the
-[draft order buttons](draft-orders.md).
+[draft order buttons](/app/guides/draft-orders).
 
 ## Activity Feed
 
@@ -46,7 +45,7 @@ If not, you can attach a customer yourself:
   (required) and **Phone** (with country code, for example `+919876543210`).
 - The **⋯** menu has **Change customer** and **Remove Customer**.
 
-The customer you attach is used when you [create a draft order](draft-orders.md).
+The customer you attach is used when you [create a draft order](/app/guides/draft-orders).
 
 ## Log a contact
 
