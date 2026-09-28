@@ -39,6 +39,7 @@
               "app/guides/dashboard",
               "app/guides/review-a-cart",
               "app/guides/support-tickets",
+              "app/guides/notifications",
               "app/guides/draft-orders",
               "app/guides/analytics",
               "app/guides/plans-and-billing"

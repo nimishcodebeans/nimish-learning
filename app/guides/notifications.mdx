@@ -1,0 +1,71 @@
+---
+title: "Notifications: know when a shopper asks for cart help"
+sidebarTitle: "Notifications"
+description: "See who gets notified when a shopper submits the cart widget, turn on merchant and shopper alerts, and fix emails that do not arrive."
+---
+
+CB Customer Cart Manager notifies you and the shopper by email whenever a shopper submits the cart widget. This page explains who gets notified, how to switch alerts on in a few clicks, and what to check when an email does not arrive.
+
+## Who gets notified
+
+| When | Who | Email | Setting |
+| --- | --- | --- | --- |
+| A shopper submits the cart widget | You (the merchant) | **New Support Request** | **Merchant Alerts → New support ticket submitted by customer** |
+| A shopper submits the cart widget | The shopper | **Ticket Confirmation** | **Customer Alerts → Support ticket submitted (confirmation email)** |
+
+<Note>
+Both alerts are **off** after install. Nothing is sent until you turn them on.
+</Note>
+
+## Turn on notifications
+
+<Steps>
+  <Step title="Open Email Notifications">
+    Open **Email Notifications** in the app menu, or go to **Settings → Notifications → Email Notifications**.
+  </Step>
+  <Step title="Alert yourself">
+    On the **Merchant Alerts** tab, tick **New support ticket submitted by customer**. In **Notification Email**, enter where alerts should go. Separate several addresses with commas: the first one receives the email and the rest are copied in. Click **Save**.
+  </Step>
+  <Step title="Confirm to the shopper">
+    On the **Customer Alerts** tab, tick **Support ticket submitted (confirmation email)** and click **Save**.
+  </Step>
+  <Step title="Send a test">
+    Open a template, enter a **Recipient Email** under **Test Email** and click **Send Test Email**.
+  </Step>
+</Steps>
+
+<Tip>
+Guests have no customer account email. Add an **Email** field to your [support form](/app/setup/popup-and-support-form) so the shopper confirmation can be delivered.
+</Tip>
+
+## Customize what is sent
+
+- **Templates:** edit the subject and HTML content of each email, add [Liquid variables](/app/reference/email-variables) and a logo.
+- **Sender:** emails go through **CB SMTP Server (Default)**. Choose **Use Custom SMTP Server** on the **SMTP Setup** tab to send from your own domain.
+
+Full details: [Email notifications](/app/setup/email-notifications).
+
+## Troubleshooting
+
+<AccordionGroup>
+  <Accordion title="I'm not getting ticket emails">
+    - Check that **New support ticket submitted by customer** is ticked and saved under **Merchant Alerts**.
+    - Check **Notification Email** for typos.
+    - Look in your spam folder, then send yourself a test email from the template editor.
+    - With a custom SMTP server, check your server details with a test email.
+  </Accordion>
+  <Accordion title="The shopper didn't get a confirmation">
+    Turn on **Support ticket submitted (confirmation email)** under **Customer Alerts**. For guests, add an **Email** field to your support form.
+  </Accordion>
+</AccordionGroup>
+
+## Related pages
+
+<CardGroup cols={2}>
+  <Card title="Email notifications" icon="envelope" href="/app/setup/email-notifications">
+    Templates, branding and SMTP setup.
+  </Card>
+  <Card title="Support tickets" icon="ticket" href="/app/guides/support-tickets">
+    Handle the requests shoppers send you.
+  </Card>
+</CardGroup>
